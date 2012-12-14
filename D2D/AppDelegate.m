@@ -12,6 +12,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+    // changed by Sahil kumal...
     // Override point for customization after application launch.
     return YES;
 }
